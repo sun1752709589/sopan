@@ -1,0 +1,215 @@
+2014-08-27 01:14:08,962 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 01:14:59,962 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 02:50:11,822 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 02:50:59,807 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 04:02:44,651 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 04:02:59,651 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 06:08:25,356 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 06:08:59,356 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 06:33:41,137 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 06:33:59,137 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 06:43:59,137 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 06:53:59,137 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 07:03:59,137 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 07:11:56,434 INFO [servlet.SouSuo] - 111.176.76.233	2014-8-27 7:11:56    engine=two	site=baiduyun	keyword=机器学习实践指南 pdf
+2014-08-27 07:13:59,137 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 07:16:06,543 INFO [servlet.SouSuo] - 111.176.76.233	2014-8-27 7:16:06    engine=two	site=csdnyunyun	keyword=机器学习实践指南 pdf
+2014-08-27 07:16:51,325 INFO [servlet.SouSuo] - 111.176.76.233	2014-8-27 7:16:51    engine=two	site=chengtongyun	keyword=机器学习实践指南 pdf
+2014-08-27 07:17:08,559 INFO [servlet.SouSuo] - 111.176.76.233	2014-8-27 7:17:08    engine=google	site=chengtongyun	keyword=机器学习实践指南 pdf
+2014-08-27 07:17:30,434 INFO [servlet.SouSuo] - 111.176.76.233	2014-8-27 7:17:30    engine=two	site=chengtongyun	keyword=机器学习实践指南 pdf
+2014-08-27 07:23:59,137 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 07:29:13,434 INFO [servlet.SouSuo] - 222.128.178.252	2014-8-27 7:29:13    engine=two	site=baiduyun	keyword=机器学习实践指南 pdf
+2014-08-27 07:30:04,184 INFO [servlet.SouSuo] - 222.128.178.252	2014-8-27 7:30:04    engine=two	site=csdnyunyun	keyword=机器学习实践指南 pdf
+2014-08-27 07:30:37,903 INFO [servlet.SouSuo] - 222.128.178.252	2014-8-27 7:30:37    engine=two	site=csdnit	keyword=机器学习实践指南 pdf
+2014-08-27 07:30:59,887 INFO [servlet.SouSuo] - 222.128.178.252	2014-8-27 7:30:59    engine=two	site=chengtongyun	keyword=机器学习实践指南 pdf
+2014-08-27 07:33:59,137 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 07:43:59,137 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 07:46:31,528 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 07:46:31,840 INFO [servlet.SouSuo] - 111.176.76.233	2014-8-27 7:46:31    engine=two	site=chengtongyun	keyword=利用Python进行数据分析
+2014-08-27 07:46:31,856 INFO [servlet.SouSuo] - 111.176.76.233	2014-8-27 7:46:31    engine=two	site=chengtongyun	keyword=利用Python进行数据分析
+2014-08-27 07:46:59,528 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 07:56:59,528 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 08:06:59,528 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 08:27:42,559 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 08:27:59,559 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 08:37:59,559 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 08:47:59,560 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 08:56:47,341 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 08:56:59,341 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 09:06:59,341 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 09:16:59,341 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 09:26:59,341 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 09:38:08,544 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 09:38:59,544 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 10:20:57,654 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 10:20:59,639 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 10:30:59,639 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 10:40:56,842 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 10:40:59,827 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 10:41:10,998 INFO [servlet.SouSuo] - 218.247.224.1	2014-8-27 10:41:10    engine=two	site=baiduyun	keyword=javascript
+2014-08-27 10:42:01,373 INFO [servlet.SouSuo] - 218.247.224.1	2014-8-27 10:42:01    engine=two	site=baiduyun	keyword=concurrenthashmap
+2014-08-27 10:44:16,936 INFO [servlet.SouSuo] - 218.247.224.1	2014-8-27 10:44:16    engine=google	site=baiduyun	keyword=concurrenthashmap
+2014-08-27 10:44:18,702 INFO [servlet.SouSuo] - 218.247.224.1	2014-8-27 10:44:18    engine=google	site=baiduyun	keyword=concurrenthashmap
+2014-08-27 10:44:37,280 INFO [servlet.SouSuo] - 218.247.224.1	2014-8-27 10:44:37    engine=google	site=csdnyunyun	keyword=concurrenthashmap
+2014-08-27 10:44:41,905 INFO [servlet.SouSuo] - 218.247.224.1	2014-8-27 10:44:41    engine=google	site=huaweiyun	keyword=concurrenthashmap
+2014-08-27 10:44:46,280 INFO [servlet.SouSuo] - 218.247.224.1	2014-8-27 10:44:46    engine=google	site=dajiayun	keyword=concurrenthashmap
+2014-08-27 10:44:51,467 INFO [servlet.SouSuo] - 218.247.224.1	2014-8-27 10:44:51    engine=google	site=iteyeit	keyword=concurrenthashmap
+2014-08-27 10:50:59,827 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 11:00:59,858 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 11:10:59,952 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 11:20:59,952 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 11:30:59,936 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 11:40:59,936 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 11:50:59,936 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 11:58:49,436 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 11:58:59,436 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 12:08:59,436 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 12:21:50,202 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 12:21:59,202 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 12:31:59,202 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 12:37:56,843 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 12:37:59,843 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 12:47:59,843 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 12:50:35,296 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 12:50:59,296 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 13:00:59,296 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 13:10:59,311 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 13:18:55,279 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 13:18:59,279 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 13:28:59,280 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 13:30:55,717 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 13:30:59,717 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 13:40:59,717 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 13:46:50,170 INFO [servlet.SouSuo] - 183.62.49.186	2014-8-27 13:46:50    engine=two	site=baiduyun	keyword=java T
+2014-08-27 13:50:59,717 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 14:01:45,374 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 14:01:59,374 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 14:11:59,378 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 14:28:06,462 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 14:28:36,587 INFO [servlet.SouSuo] - 113.91.197.115	2014-8-27 14:28:36    engine=two	site=baiduyun	keyword=盗墓迷城
+2014-08-27 14:28:40,681 INFO [servlet.SouSuo] - 113.91.197.115	2014-8-27 14:28:40    engine=two	site=baiduyun	keyword=盗墓迷城
+2014-08-27 14:28:59,462 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 14:38:59,466 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 14:50:03,689 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 14:50:59,689 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 15:00:59,709 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 15:07:46,961 INFO [servlet.SouSuo] - 150.255.147.249	2014-8-27 15:07:46    engine=two	site=baiduyun	keyword=hadoop
+2014-08-27 15:10:59,697 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 15:21:27,138 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 15:21:59,138 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 15:41:19,862 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 15:41:59,862 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 15:51:59,895 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 15:55:53,114 INFO [servlet.SouSuo] - 210.77.30.218	2014-8-27 15:55:53    engine=two	site=baiduyun	keyword=hadoop
+2014-08-27 15:56:04,239 INFO [servlet.SouSuo] - 210.77.30.218	2014-8-27 15:56:04    engine=baidu	site=baiduyun	keyword=hadoop
+2014-08-27 15:56:07,380 INFO [servlet.SouSuo] - 210.77.30.218	2014-8-27 15:56:07    engine=two	site=baiduyun	keyword=hadoop
+2014-08-27 15:57:46,036 INFO [servlet.SouSuo] - 210.77.30.218	2014-8-27 15:57:46    engine=baidu	site=baiduyun	keyword=hadoop
+2014-08-27 16:01:59,880 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 16:33:01,099 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 16:33:59,099 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 16:43:59,099 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 16:54:08,536 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 16:54:59,536 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 17:02:12,615 INFO [servlet.SouSuo] - 182.48.101.7	2014-8-27 17:02:12    engine=two	site=baiduyun	keyword=hadoop视频教程
+2014-08-27 17:04:59,552 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 17:14:59,552 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 17:24:51,458 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 17:24:59,458 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 17:34:59,473 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 17:41:05,221 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 17:41:59,205 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 17:51:59,216 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 18:03:02,841 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 18:03:59,841 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 18:13:59,856 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 18:23:59,886 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 18:33:59,886 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 18:43:59,886 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 18:56:43,650 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 18:56:59,650 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 19:10:04,926 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 19:10:59,941 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 19:20:43,531 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 19:20:59,531 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 19:49:09,708 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 19:49:59,692 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 20:18:43,512 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 20:18:59,512 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 20:28:59,525 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 20:52:28,834 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 20:52:59,850 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 21:07:36,974 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 21:07:59,974 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 21:44:48,176 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 21:44:59,176 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 21:57:29,160 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-27 21:57:59,160 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 22:07:59,192 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 22:17:59,176 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 22:27:59,176 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 22:30:59,176 INFO [timer.TimerExecute] - one day execute
+2014-08-27 22:37:59,222 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 22:44:22,145 INFO [servlet.SouSuo] - sousuo servlet destory execute
+2014-08-27 22:44:22,676 INFO [servlet.SouSuo] - stop timer successfuly!
+2014-08-27 22:46:18,849 INFO [servlet.TimerServlet] - timer servlet startup
+2014-08-27 22:46:18,849 INFO [timer.TimerExecute] - one day execute
+2014-08-27 22:46:59,849 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 22:47:59,287 INFO [servlet.TimerServlet] - timer servlet startup
+2014-08-27 22:47:59,303 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 22:47:59,303 INFO [timer.TimerExecute] - one day execute
+2014-08-27 22:48:34,506 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=yun	site=baidu	key=hadoop视频
+2014-08-27 22:49:01,428 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=yun	site=sina	key=hadoop视频
+2014-08-27 22:49:12,881 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=yun	site=weiyun	key=hadoop视频
+2014-08-27 22:49:18,006 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=yun	site=360	key=hadoop视频
+2014-08-27 22:50:17,210 INFO [servlet.GoogleServlet] - 222.128.178.252    engine=google1	  key=java视频
+2014-08-27 22:51:14,351 INFO [servlet.GoogleServlet] - 222.128.178.252    engine=google1	  key=hadoop视频
+2014-08-27 22:52:04,304 INFO [servlet.GoogleServlet] - 222.128.178.252    engine=google1	  key=hadoop视频
+2014-08-27 22:53:06,726 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=apk	site=baidu	key=地铁跑酷
+2014-08-27 22:53:55,024 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=apk	site=anzhi	key=地铁跑酷
+2014-08-27 22:54:58,165 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=tieba	site=baidu	key=java
+2014-08-27 22:55:10,790 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=baidu	sotype=tieba	site=baidu	key=java
+2014-08-27 22:55:19,712 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=baidu	sotype=tieba	site=baidu	key=秦时明月
+2014-08-27 22:56:01,353 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=google	sotype=tieba	site=baidu	key=秦时明月
+2014-08-27 22:56:49,056 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=music	site=baidu	key=爱与诺言
+2014-08-27 22:57:03,884 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=music	site=qq	key=爱与诺言
+2014-08-27 22:57:14,947 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=music	site=yy8844	key=爱与诺言
+2014-08-27 22:57:23,541 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=music	site=kuwo	key=爱与诺言
+2014-08-27 22:57:59,306 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 23:00:40,495 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=download	site=baidu	key=hadoop
+2014-08-27 23:00:47,870 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=download	site=csdn	key=hadoop
+2014-08-27 23:07:59,325 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 23:17:59,327 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 23:22:08,577 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=download	site=baidu	key=hadoop
+2014-08-27 23:27:59,329 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 23:35:37,315 INFO [servlet.EasysosoServlet] - 118.186.196.154    engine=two	sotype=yun	site=baidu	key=struts2
+2014-08-27 23:37:59,331 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 23:39:16,237 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=yun	site=baidu	key=struts2
+2014-08-27 23:40:13,565 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=download	site=baidu	key=hadoop
+2014-08-27 23:40:13,800 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=download	site=baidu	key=hadoop
+2014-08-27 23:40:56,737 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=baidu	key=hoapoop
+2014-08-27 23:41:35,253 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=baidu	key=hadoop
+2014-08-27 23:41:41,472 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=huawei	key=hadoop
+2014-08-27 23:41:48,894 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=huawei	key=hadoop
+2014-08-27 23:41:57,659 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=box	key=hadoop
+2014-08-27 23:42:04,706 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=163	key=hadoop
+2014-08-27 23:42:09,675 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=liyu	key=hadoop
+2014-08-27 23:42:20,644 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=liyu	key=hadoop视频
+2014-08-27 23:42:30,409 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=liyu	key=免费hadoop视频
+2014-08-27 23:42:39,316 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=qiannao	key=免费hadoop视频
+2014-08-27 23:42:51,003 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=xunleiyun	key=免费hadoop视频
+2014-08-27 23:42:54,706 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=gugu	key=免费hadoop视频
+2014-08-27 23:42:58,909 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=qiming	key=免费hadoop视频
+2014-08-27 23:43:01,316 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=360	key=免费hadoop视频
+2014-08-27 23:43:03,222 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=99	key=免费hadoop视频
+2014-08-27 23:43:05,003 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=xunlei	key=免费hadoop视频
+2014-08-27 23:43:08,050 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=microsoft	key=免费hadoop视频
+2014-08-27 23:43:09,863 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=box	key=免费hadoop视频
+2014-08-27 23:43:11,472 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=chengtong	key=免费hadoop视频
+2014-08-27 23:43:14,831 INFO [servlet.EasysosoServlet] - 123.114.134.93    engine=two	sotype=yun	site=7958	key=免费hadoop视频
+2014-08-27 23:43:35,660 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=yun	site=baidu	key=免费hadoop视频
+2014-08-27 23:43:45,347 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=yun	site=sina	key=免费hadoop视频
+2014-08-27 23:43:51,363 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=yun	site=gugu	key=免费hadoop视频
+2014-08-27 23:43:58,566 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=yun	site=liyu	key=免费hadoop视频
+2014-08-27 23:44:05,597 INFO [servlet.EasysosoServlet] - 222.128.178.252    engine=two	sotype=yun	site=csdnyun	key=免费hadoop视频
+2014-08-27 23:47:59,348 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-27 23:57:59,360 INFO [timer.TimerExecute] - 10 minutes execute!

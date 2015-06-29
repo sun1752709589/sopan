@@ -1,0 +1,367 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>网盘搜索</title>
+		<meta name="keywords" content="网盘搜索,百度网盘搜索,网盘,云盘搜索,网盘下载,网盘资源" />
+		<meta name="Description" content="easysoso-国内优秀网盘资源搜索引擎,支持百度网盘搜索,360云盘搜索,迅雷快传,城通网盘,华为DBank等网盘,提供快速搜索电影,视频,文档,游戏等资源网盘下载服务" />
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<style>
+html {
+	overflow-y: scroll
+}
+
+div,td,.n a,.n a:visited {
+	color: #000
+}
+
+.ts td,.tc {
+	padding: 0
+}
+
+.ts,.tb {
+	border-collapse: collapse
+}
+
+.ti {
+	display: inline-table
+}
+
+.hd {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	top: -1000em;
+	overflow: hidden
+}
+
+.f {
+	color: #000
+}
+
+.flc,a.fl {
+	color: #000
+}
+
+a,.w,.q:visited,.q:active,.q,.b a,.b a:visited,a.fl:visited,.l2 a:visited
+	{
+	color: #00c
+}
+
+a:visited {
+	color: #00c
+}
+
+a:active {
+	color: #00c
+}
+
+.vst:link {
+	color: #551a8b
+}
+
+.t {
+	background: #fff;
+	color: #000;
+	padding: 5px 1px
+}
+
+.bb {
+	border-bottom: 1px solid #00c
+}
+
+.bt {
+	border-top: 1px solid #00c
+}
+
+.j {
+	width: 34em
+}
+
+.h {
+	color: #36c font-size :
+}
+
+.i {
+	color: #000
+}
+
+.z {
+	display: none
+}
+
+div.n {
+	margin-top: 20px
+}
+
+.n a,.n .i {
+	font-size: 10pt
+}
+
+.n .i,.b a {
+	font-weight: bold
+}
+
+#navbar a {
+	display: block
+}
+
+.std {
+	font-size: 82%
+}
+
+.xsm {
+	font-size: 67%
+}
+
+#np,#nn,.nr,#logo span,.ch {
+	cursor: pointer;
+	cursor: hand
+}
+
+.lst {
+	font-family: arial, sans-serif;
+	font-size: 17px;
+	vertical-align: middle
+}
+
+.lsb {
+	font-family: arial, sans-serif;
+	font-size: 15px;
+	height: 1.85em;
+	padding: 0 8px;
+	vertical-align: middle
+}
+
+.ta {
+	padding: 3px 3px 3px 5px
+}
+
+#tpa2,#tpa3,#tpa4 {
+	padding-top: 9px
+}
+
+#guser {
+	font-size: 84%;
+	padding: 0 0 4px;
+	text-align: right
+}
+
+a.gb1,a.gb2,a.gb3,.link {
+	color: #00c !important
+}
+
+.sl,.r {
+	display: inline;
+	font-weight: normal;
+	margin: 0
+}
+
+.sl {
+	font-size: 84%
+}
+
+.r {
+	font-size: 100%
+}
+
+.e {
+	margin: .75em 0
+}
+
+
+
+.csb,.n div,#logo span {
+	background-position: 0 0;
+	height: 40px
+}
+
+.n .nr {
+	background-position: -74px 0;
+	width: 20px
+}
+
+#np {
+	width: 53px
+}
+
+#nf {
+	background-position: -24px 0;
+	width: 28px
+}
+
+#nc {
+	background-position: -53px 0;
+	width: 20px
+}
+
+#nn {
+	margin-right: 34px;
+	width: 71px
+}
+
+#nl {
+	width: 45px
+}
+
+#nn,#nl {
+	background-position: -96px 0
+}
+
+#logo {
+	display: block;
+	height: 49px;
+	margin: 13px 0 7px;
+	overflow: hidden;
+	position: relative;
+	width: 137px
+}
+
+#logo span {
+	background-position: 0 -41px;
+	height: 100%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%
+}
+
+#rso>li {
+	display: table-row
+}
+
+#rso>li>div {
+	display: table-cell
+}
+
+em,.rbt b,.ta b,.ra b,#res .g b,#res .g em,.tas b,.taf b,.tam b,.tal b {
+	color: #c03;
+	font-style: normal;
+	font-weight: normal
+}
+
+a em,.rbt a b,.ta a b,.ra a b,#res .g h2.r b,.tas a b,.taf a b,.tam a b,.tal a b
+	{
+	text-decoration: underline
+}
+
+#cnt {
+	max-width: 80em;
+	clear: both
+}
+
+body,td,div,.p,a {
+	font-family: arial, sans-serif
+}
+
+#res,#res .j {
+	line-height: 120%
+}
+
+#res .std {
+	line-height: 146%
+}
+
+.g {
+	margin: 1em 0 1.2em
+}
+
+#sd {
+	font-size: 84%;
+	font-weight: bold
+}
+
+#ap {
+	font-size: 84%
+}
+
+#res {
+	padding-left: .5em
+}
+
+#rso .g {
+	margin: .5em 0
+}
+
+#rso {
+	margin: .5em 0
+}
+</style>
+		<script>
+	/*window['curwt'] = function(t, ct) {
+		try {
+			if (t === window) {
+				t = window.event.srcElement;
+				while (t) {
+					if (t.href) {
+						break;
+					}
+					t = t.parentNode;
+				}
+			}
+			t.href = ct;
+			t.onmousedown = '';
+		} catch (e) {
+		}
+		return true;
+	}*/
+</script>
+	</head>
+	<body bgcolor="#ffffff" topmargin="2" marginheight="2" text="#000000"
+		link="#0000cc" vlink="#0000cc" alink="#0000cc">
+		
+		<div align="center">
+			<table border="0">
+				<tr>
+					<td>
+						<table class="tb" style="clear: left" width="100%">
+							<tr>
+								<form name="gs" method="GET" action="javascript:void(0)">
+									<td class="tc" valign="top" bgcolor="#ffffff">
+										<img border="0"
+												src="img/google.gif" width="176"
+												height="77" alt="Google 首页">
+										&nbsp;&nbsp;&nbsp;
+									</td>
+									<td style="padding: 0 0 7px; padding-left: 8px" width="100%"
+										valign="top">
+										<table class="tb">
+											<tr>
+												<td class="tc" colspan="2" height="14" valign="bottom"></td>
+											</tr>
+											<tr>
+												<td class="tc" nowrap>
+													<input type=hidden name=newwindow value="1">
+													<input type=hidden name=hl value="zh-CN">
+													<input type="text" name="q" size="38" maxlength="2048" baiduSug="2"
+														value="" title="Google 搜索">
+													<input type="submit" name="btnG" value="Google 搜索">
+												</td>
+												<td class="tc" nowrap width="100%">
+													<span id="ap"></span>
+												</td>
+											</tr>
+										</table>
+									</td>
+								</form>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+		<style>
+.s br {
+	display: none
+}
+
+.a {
+	color: green
+}
+</style>
+		<div id="res">
+			<br clear="all">
+		</div>
+		
+	</body>
+	<script charset="gbk" src="http://www.baidu.com/js/opensug.js"></script>
+</html>

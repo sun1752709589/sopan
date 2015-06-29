@@ -1,0 +1,94 @@
+2014-08-23 05:45:11,718 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 05:45:59,718 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 05:55:59,718 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 06:12:13,906 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 06:12:59,890 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 06:22:59,890 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 06:30:27,062 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 06:30:59,062 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 07:25:47,924 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 07:25:59,924 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 08:33:44,346 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 08:33:59,346 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 08:43:59,346 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 08:47:57,721 INFO [servlet.SouSuo] - 222.128.176.133	2014-8-23 8:47:57    engine=two	site=baiduyun	keyword=°®ÓëÅµÑÔ
+2014-08-23 08:53:59,361 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 09:03:59,361 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 10:13:52,361 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 10:13:59,361 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 10:23:59,392 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 10:31:10,439 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 10:31:59,439 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 10:32:34,517 INFO [servlet.SouSuo] - 222.128.176.133	2014-8-23 10:32:34    engine=two	site=baiduyun	keyword=¿Æ²©
+2014-08-23 10:32:40,174 INFO [servlet.SouSuo] - 222.128.176.133	2014-8-23 10:32:40    engine=two	site=csdnyunyun	keyword=¿Æ²©
+2014-08-23 10:33:02,033 INFO [servlet.SouSuo] - 222.128.176.133	2014-8-23 10:33:02    engine=two	site=dajiayun	keyword=¿Æ²©
+2014-08-23 10:41:59,486 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 10:54:53,533 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 10:54:59,533 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 11:04:59,580 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 11:09:03,455 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 11:09:59,455 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 11:24:04,189 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 11:24:59,189 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 11:28:07,877 INFO [servlet.SouSuo] - 222.128.176.133	2014-8-23 11:28:07    engine=two	site=csdnyunyun	keyword=the anatomy of a large-scale hypertextual web search engine
+2014-08-23 11:28:10,002 INFO [servlet.SouSuo] - 222.128.176.133	2014-8-23 11:28:10    engine=two	site=csdnyunyun	keyword=the anatomy of a large-scale hypertextual web search engine
+2014-08-23 11:34:59,221 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 12:01:01,986 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 12:01:59,971 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 12:12:17,080 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 12:12:59,065 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 12:22:59,065 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 12:37:08,861 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 12:37:59,861 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 12:55:02,565 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 12:55:36,643 INFO [servlet.SouSuo] - 183.220.22.28	2014-8-23 12:55:36    engine=two	site=baiduyun	keyword=º«Ë³Æ½ËùÓÐÊÓÆµ
+2014-08-23 12:55:58,143 INFO [servlet.SouSuo] - 183.220.22.28	2014-8-23 12:55:58    engine=google	site=baiduyun	keyword=º«Ë³Æ½ÊÓÆµ
+2014-08-23 12:55:59,565 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 13:04:20,846 INFO [servlet.SouSuo] - 222.128.176.133	2014-8-23 13:04:20    engine=google	site=baiduyun	keyword=º«Ë³Æ½ÊÓÆµ
+2014-08-23 13:05:43,455 INFO [servlet.SouSuo] - 222.128.176.133	2014-8-23 13:05:43    engine=two	site=baiduyun	keyword=º«Ë³Æ½ÊÓÆµ
+2014-08-23 13:05:59,565 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 13:15:59,565 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 13:25:59,580 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 13:57:12,550 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 13:57:59,550 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 14:43:21,425 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 14:43:59,425 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 14:53:59,429 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 15:00:37,445 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 15:00:59,445 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 15:10:59,445 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 15:20:59,445 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 17:12:11,006 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 17:12:59,006 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 17:22:59,037 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 17:32:59,037 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 17:42:59,052 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 18:23:54,630 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 18:23:59,630 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 18:33:59,631 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 20:29:51,052 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 20:29:59,052 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 20:39:59,083 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 21:16:11,005 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 21:16:59,989 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 21:27:00,037 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 21:41:29,818 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 21:41:59,818 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 21:51:59,849 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 21:54:51,834 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 21:54:59,834 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 22:04:59,865 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 22:08:28,177 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 22:08:59,177 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 22:18:59,181 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 22:28:59,197 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 22:33:29,619 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-23 22:33:59,619 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 22:43:59,619 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 22:53:59,666 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 23:03:59,635 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-23 23:11:10,447 INFO [servlet.SouSuo] - 117.136.3.45	2014-8-23 23:11:10    engine=google	site=baiduyun	keyword=Æ¼×ÙÏÀÓ° ·¶±ù±ù°æµçÊÓ¾ç
+2014-08-23 23:11:18,103 INFO [servlet.SouSuo] - 117.136.3.45	2014-8-23 23:11:18    engine=google	site=baiduyun	keyword=Æ¼×ÙÏÀÓ° ·¶±ù±ù°æµçÊÓ¾ç
+2014-08-23 23:11:30,400 INFO [servlet.SouSuo] - 117.136.3.45	2014-8-23 23:11:30    engine=two	site=baiduyun	keyword=Æ¼×ÙÏÀÓ° ·¶±ù±ù°æµçÊÓ¾ç
+2014-08-23 23:11:34,681 INFO [servlet.SouSuo] - 222.128.176.133	2014-8-23 23:11:34    engine=google	site=baiduyun	keyword=Æ¼×ÙÏÀÓ° ·¶±ù±ù°æµçÊÓ¾ç
+2014-08-23 23:12:22,072 INFO [servlet.SouSuo] - 222.128.17

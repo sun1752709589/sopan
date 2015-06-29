@@ -1,0 +1,59 @@
+2014-08-22 16:59:43,417 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-22 16:59:59,417 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 17:00:27,151 INFO [servlet.SouSuo] - 114.249.224.55	2014-8-22 17:00:27    engine=two	site=baiduyun	keyword=hadoop
+2014-08-22 17:01:24,323 INFO [servlet.SouSuo] - 114.249.224.55	2014-8-22 17:01:24    engine=two	site=csdnit	keyword=hadoop
+2014-08-22 17:01:31,370 INFO [servlet.SouSuo] - 114.249.224.55	2014-8-22 17:01:31    engine=two	site=csdnit	keyword=hadoop
+2014-08-22 17:09:59,420 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 17:19:59,423 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 17:29:59,423 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 17:34:16,017 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-22 17:34:59,017 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 17:44:59,017 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 17:54:59,017 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 18:04:59,050 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 18:28:58,505 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-22 18:28:59,505 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 18:38:59,505 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 18:39:54,849 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-22 18:39:59,849 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 18:49:59,849 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 18:53:54,677 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-22 18:53:59,677 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 19:03:59,677 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 19:13:59,677 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 19:28:18,927 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-22 19:28:59,927 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 19:38:59,942 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 19:47:02,865 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-22 19:47:59,865 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 19:57:59,865 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 20:00:18,509 INFO [servlet.SouSuo] - 114.249.234.226	2014-8-22 20:00:18    engine=two	site=csdnyunyun	keyword=只是为了好玩
+2014-08-22 20:06:18,805 INFO [servlet.SouSuo] - 114.249.234.226	2014-8-22 20:06:18    engine=two	site=baiduyun	keyword=鸟哥的linux私房菜
+2014-08-22 20:06:33,196 INFO [servlet.SouSuo] - 114.249.234.226	2014-8-22 20:06:33    engine=two	site=csdnyunyun	keyword=鸟哥的linux私房菜
+2014-08-22 20:07:59,868 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 20:12:49,977 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-22 20:12:59,962 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 20:22:59,962 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 20:32:59,962 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 20:42:59,962 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 20:52:59,962 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 21:02:59,962 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 21:13:00,196 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 21:23:00,055 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 21:33:00,055 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 21:43:00,055 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 21:53:00,055 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 22:03:00,089 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 22:13:00,093 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 22:14:38,468 INFO [servlet.SouSuo] - 221.179.140.147	2014-8-22 22:14:38    engine=two	site=baiduyun	keyword=Oracle dba 视频
+2014-08-22 22:23:00,096 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 22:39:52,962 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-22 22:39:59,962 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 22:49:59,966 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 23:00:00,016 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 23:03:52,252 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-22 23:03:59,189 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 23:17:09,411 INFO [servlet.SouSuo] - sousuo servlet startup!
+2014-08-22 23:17:59,412 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 23:27:59,414 INFO [timer.TimerExecute] - 10 minutes execute!
+2014-08-22 23:37:59,416 INFO [timer.TimerExecute] - 10 minutes execute!

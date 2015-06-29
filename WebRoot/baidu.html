@@ -1,0 +1,144 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>网盘搜索</title>
+		<meta http-equiv="keywords" content="搜网盘|百度网盘搜索|网盘搜索|360网盘搜索|微盘网盘搜索">
+		<meta http-equiv="description" content="网盘搜索引擎,是百度网盘论坛旗下的一个各大网盘搜索引擎,另外通过网盘搜索引擎可以搜索金山快盘,百度网盘,华为网盘,115网盘,360网盘,迅雷快传,旋风分享等一切网盘资源,主要包括热门软件,最新电影,电子书,精品软件,纪录片,高清图片,MP3&MP4,手机软件等一切所有网盘资源.">
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+	</head>
+	<body bgcolor="#ffffff" topmargin="2" marginheight="2" text="#000000"
+		link="#0000cc" vlink="#0000cc" alink="#0000cc" style="width:200px;">
+		
+		<div align="center" style="margin-left: 40px;">
+			<script language="javascript">
+function gowhere1(formname) {
+var url;
+if (formname.myselectvalue.value == "0") {
+url = "http://www.baidu.com/baidu";
+document.search_form1.tn.value = "baidu";
+formname.method = "get";
+}
+if (formname.myselectvalue.value == "1") {
+url = "http://mp3.baidu.com/m";
+document.search_form1.tn.value = "baidump3";
+document.search_form1.ct.value = "134217728";
+document.search_form1.lm.value = "-1";
+}
+
+if (formname.myselectvalue.value == "4") {
+document.search_form1.tn.value = "news";
+document.search_form1.cl.value = "2";
+document.search_form1.rn.value = "20";
+url = "http://news.baidu.com/ns";
+}
+if (formname.myselectvalue.value == "5") {
+document.search_form1.tn.value = "baiduiamge";
+document.search_form1.ct.value = "201326592";
+document.search_form1.cl.value = "2";
+document.search_form1.lm.value = "-1";
+url = "http://image.baidu.com/i";
+}
+if (formname.myselectvalue.value == "6") {
+url = "http://tieba.baidu.com";
+document.search_form1.tn.value = "baiduPostSearch";
+document.search_form1.ct.value = "352321536";
+document.search_form1.rn.value = "10";
+document.search_form1.lm.value = "65536";
+}
+
+formname.action = url;
+return true;
+}
+</script>
+			<form onsubmit="return gowhere1(this)"
+				name="search_form1" method="get" action="http://www.baidu.com/baidu">
+				<table width="100%" height="80" cellspacing="0" cellpadding="0"
+					border="0" style="font-family: 宋体">
+					<tbody>
+						<tr>
+							<td>
+								<table width="144%" height="80" cellspacing="0" cellpadding="0"
+									border="0">
+									<input type="hidden" value="0" name="myselectvalue">
+									<input type="hidden" value="utf-8" name="ie">
+									<input type="hidden" name="tn" value="baidu">
+									<input type="hidden" name="ct">
+									<input type="hidden" name="lm">
+									<input type="hidden" name="cl">
+									<input type="hidden" name="rn">
+									<tbody>
+										<tr>
+											<td width="8%" valign="bottom">
+												<div align="center">
+													<a href="http://www.baidu.com/"> <img border="0"
+															align="bottom" alt="Baidu"
+															src="img/logo-80px.gif"> </a>
+												</div>
+											</td>
+											<td width="92%" valign="bottom">
+
+												<input type="radio" value="0"
+													onclick="javascript:this.form.myselectvalue.value=4;"
+													name="myselect">
+												<font color="#0000cc"> 新闻 </font>
+
+												<input type="radio" value="0"
+													onclick="javascript:this.form.myselectvalue.value=0;"
+													name="myselect" checked="">
+												<span class="f12"> <font color="#0000cc"> 网页 </font>
+												</span>
+												<input type="radio" value="1"
+													onclick="javascript:this.form.myselectvalue.value=1;"
+													name="myselect">
+												<span class="f12"> <font color="#0000cc"> 音乐 </font>
+												</span>
+												<input type="radio" value="0"
+													onclick="javascript:this.form.myselectvalue.value=6;"
+													name="myselect">
+												<font color="#0000cc"> 贴吧 </font>
+
+												<input type="radio" value="0"
+													onclick="javascript:this.form.myselectvalue.value=5;"
+													name="myselect">
+												<font color="#0000cc"> 图片 </font>
+
+												<table width="100%" cellspacing="0" cellpadding="0"
+													border="0" align="right">
+													<tbody>
+														<tr>
+															<td style="padding-top: 10px;">
+																<font> <input size="40" name="word" id="word" baiduSug="2">
+																</font>
+																<input type="submit" value="百度一下" />
+
+															</td>
+															<td>
+																<br>
+															</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td width="8%"></td>
+											<td width="92%"></td>
+										</tr>
+
+										<tr>
+											<td>
+											</td>
+										</tr>
+									</tbody>
+								</table>
+							</td>
+						</tr>
+					</tbody>
+				</table>
+			</form>
+
+		</div>
+
+	</body>
+	<script charset="gbk" src="http://www.baidu.com/js/opensug.js"></script>
+</html>
